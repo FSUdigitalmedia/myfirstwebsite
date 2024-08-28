@@ -1,0 +1,13 @@
+body {
+    background-color: rgb(255, 195, 127);
+}
+
+h1 {
+    color: blue;
+    font-size: x-large;
+}
+
+#mydiv {
+    color: purple;
+    position: absolute;
+}
